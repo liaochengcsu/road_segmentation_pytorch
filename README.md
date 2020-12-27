@@ -32,3 +32,6 @@ label = os.path.join(self.file_path, "labels/" + lab)
 ```
 ##### 4. 程序训练过程中自动下载基于ImageNet的预训练模型，执行完一个epoch后会计算验证集精度，训练完成后将模型按照初赛格式提交即可。我们的验证结果如下图：
 ![Alt text](https://github.com/liaochengcsu/road_segmentation_pytorch/blob/main/result.jpg)
+
+# Help
+Any question? Please contact me with: liaocheng@my.swjtu.edu.cn
