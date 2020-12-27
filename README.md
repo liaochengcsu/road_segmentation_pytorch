@@ -22,7 +22,7 @@
 ##### 2. train.py中修改第25-27行的csv文件路径及验证集数量
 ```
 train_path = r'C:\Data\Road_Seg\data\data\train/train.csv'
-val_path = r'C:\Data\Road_Seg\data\data\val/test.csv'
+val_path = r'C:\Data\Road_Seg\data\data\val/.csv'
 num_test_img = 4396
 ```
 ##### 3. data_agu.py文件第122-123、144-145行读取csv并获取文件绝对路径
